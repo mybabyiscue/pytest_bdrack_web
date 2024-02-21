@@ -1,0 +1,109 @@
+{
+  "uid" : "1d939701fb7ae1bf",
+  "name" : "cstor_07_sessionList",
+  "fullName" : "testsuit.cstor_Exam_process.Cstor_ExamProcess#cstor_07_sessionList",
+  "historyId" : "867ba1c7e290d6d0b3a51a095f8a3f97",
+  "time" : {
+    "start" : 1651824380960,
+    "stop" : 1651824385582,
+    "duration" : 4622
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1651824375000,
+      "stop" : 1651824379504,
+      "duration" : 4504
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1651824374942,
+      "stop" : 1651824375000,
+      "duration" : 58
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1651824385583,
+      "stop" : 1651824385583,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testsuit"
+  }, {
+    "name" : "suite",
+    "value" : "cstor_Exam_process"
+  }, {
+    "name" : "subSuite",
+    "value" : "Cstor_ExamProcess"
+  }, {
+    "name" : "host",
+    "value" : "ENG-469-A"
+  }, {
+    "name" : "thread",
+    "value" : "1888-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testsuit.cstor_Exam_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2cf34007047afc75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651824317364,
+        "stop" : 1651824321838,
+        "duration" : 4474
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d939701fb7ae1bf.json",
+  "parameterValues" : [ ]
+}

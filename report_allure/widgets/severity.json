@@ -1,0 +1,71 @@
+[ {
+  "uid" : "14f17dcf64e698ea",
+  "name" : "cstor_03_add_student",
+  "time" : {
+    "start" : 1651822392441,
+    "stop" : 1651822395010,
+    "duration" : 2569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60931826084ebca5",
+  "name" : "cstor_04_add_course",
+  "time" : {
+    "start" : 1651822395013,
+    "stop" : 1651822412484,
+    "duration" : 17471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e975a4eb4769489",
+  "name" : "cstor_01_addteacher",
+  "time" : {
+    "start" : 1651824379505,
+    "stop" : 1651824380939,
+    "duration" : 1434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43a1975a10cadd06",
+  "name" : "cstor_06_add_exam_manage",
+  "time" : {
+    "start" : 1651822428615,
+    "stop" : 1651822447448,
+    "duration" : 18833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d939701fb7ae1bf",
+  "name" : "cstor_07_sessionList",
+  "time" : {
+    "start" : 1651824380960,
+    "stop" : 1651824385582,
+    "duration" : 4622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49091360587f06ed",
+  "name" : "cstor_02_addclass",
+  "time" : {
+    "start" : 1651822386436,
+    "stop" : 1651822392439,
+    "duration" : 6003
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6e636555d319b01",
+  "name" : "cstor_05_add_exam",
+  "time" : {
+    "start" : 1651822412504,
+    "stop" : 1651822428599,
+    "duration" : 16095
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

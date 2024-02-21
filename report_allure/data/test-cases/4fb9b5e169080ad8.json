@@ -1,0 +1,99 @@
+{
+  "uid" : "4fb9b5e169080ad8",
+  "name" : "cstor_02_addclass",
+  "fullName" : "testsuit.cstor_Exam_process.Cstor_ExamProcess#cstor_02_addclass",
+  "historyId" : "c56518e30fc55d1d9e1957561c50e247",
+  "time" : {
+    "start" : 1650436027616,
+    "stop" : 1650436045439,
+    "duration" : 17823
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Cstor_ExamProcess",
+    "time" : {
+      "start" : 1650436012980,
+      "stop" : 1650436019318,
+      "duration" : 6338
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1650436012824,
+      "stop" : 1650436012979,
+      "duration" : 155
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_xunit_setup_class_fixture_Cstor_ExamProcess::0",
+    "time" : {
+      "start" : 1650436090404,
+      "stop" : 1650436093883,
+      "duration" : 3479
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testsuit"
+  }, {
+    "name" : "suite",
+    "value" : "cstor_Exam_process"
+  }, {
+    "name" : "subSuite",
+    "value" : "Cstor_ExamProcess"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1ST8L4K"
+  }, {
+    "name" : "thread",
+    "value" : "3760-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testsuit.cstor_Exam_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fb9b5e169080ad8.json",
+  "parameterValues" : [ ]
+}

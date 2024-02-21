@@ -1,0 +1,141 @@
+{
+  "uid" : "5e975a4eb4769489",
+  "name" : "cstor_01_addteacher",
+  "fullName" : "testsuit.cstor_Exam_process.Cstor_ExamProcess#cstor_01_addteacher",
+  "historyId" : "7a8c4d63af0ef8cc2d4d1e5d9b5e1483",
+  "time" : {
+    "start" : 1651824379505,
+    "stop" : 1651824380939,
+    "duration" : 1434
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1651824375000,
+      "stop" : 1651824379504,
+      "duration" : 4504
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1651824374942,
+      "stop" : 1651824375000,
+      "duration" : 58
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1651824385583,
+      "stop" : 1651824385583,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testsuit"
+  }, {
+    "name" : "suite",
+    "value" : "cstor_Exam_process"
+  }, {
+    "name" : "subSuite",
+    "value" : "Cstor_ExamProcess"
+  }, {
+    "name" : "host",
+    "value" : "ENG-469-A"
+  }, {
+    "name" : "thread",
+    "value" : "1888-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testsuit.cstor_Exam_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a2a81c586e8ef67d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651824315902,
+        "stop" : 1651824317360,
+        "duration" : 1458
+      }
+    }, {
+      "uid" : "1a46da0ad5a9bdfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651822380939,
+        "stop" : 1651822386433,
+        "duration" : 5494
+      }
+    }, {
+      "uid" : "613de561ba6d0778",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651221344338,
+        "stop" : 1651221350942,
+        "duration" : 6604
+      }
+    }, {
+      "uid" : "94ab61c1696c0f73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651221043953,
+        "stop" : 1651221049402,
+        "duration" : 5449
+      }
+    }, {
+      "uid" : "a2c3422250d9828e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650436019324,
+        "stop" : 1650436027612,
+        "duration" : 8288
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e975a4eb4769489.json",
+  "parameterValues" : [ ]
+}

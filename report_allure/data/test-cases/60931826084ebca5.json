@@ -1,0 +1,118 @@
+{
+  "uid" : "60931826084ebca5",
+  "name" : "cstor_04_add_course",
+  "fullName" : "testsuit.cstor_Exam_process.Cstor_ExamProcess#cstor_04_add_course",
+  "historyId" : "14b4dfe536a4d36e1e603b880c7d1f70",
+  "time" : {
+    "start" : 1651822395013,
+    "stop" : 1651822412484,
+    "duration" : 17471
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1651822376206,
+      "stop" : 1651822376283,
+      "duration" : 77
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1651822376283,
+      "stop" : 1651822380923,
+      "duration" : 4640
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1651822447449,
+      "stop" : 1651822447449,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testsuit"
+  }, {
+    "name" : "suite",
+    "value" : "cstor_Exam_process"
+  }, {
+    "name" : "subSuite",
+    "value" : "Cstor_ExamProcess"
+  }, {
+    "name" : "host",
+    "value" : "ENG-469-A"
+  }, {
+    "name" : "thread",
+    "value" : "20332-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testsuit.cstor_Exam_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2e9759577d08621",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1651221359543,
+        "stop" : 1651221373860,
+        "duration" : 14317
+      }
+    }, {
+      "uid" : "eaa2265ef35fd264",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650436049079,
+        "stop" : 1650436063297,
+        "duration" : 14218
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60931826084ebca5.json",
+  "parameterValues" : [ ]
+}

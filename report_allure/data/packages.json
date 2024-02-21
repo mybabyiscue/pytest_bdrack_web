@@ -1,0 +1,100 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testsuit.cstor_Exam_process",
+    "children" : [ {
+      "name" : "cstor_02_addclass",
+      "uid" : "49091360587f06ed",
+      "parentUid" : "ef8c522d4c70c0ec2e0764eb8338752b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651822386436,
+        "stop" : 1651822392439,
+        "duration" : 6003
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "cstor_03_add_student",
+      "uid" : "14f17dcf64e698ea",
+      "parentUid" : "ef8c522d4c70c0ec2e0764eb8338752b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651822392441,
+        "stop" : 1651822395010,
+        "duration" : 2569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "cstor_04_add_course",
+      "uid" : "60931826084ebca5",
+      "parentUid" : "ef8c522d4c70c0ec2e0764eb8338752b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651822395013,
+        "stop" : 1651822412484,
+        "duration" : 17471
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "cstor_05_add_exam",
+      "uid" : "d6e636555d319b01",
+      "parentUid" : "ef8c522d4c70c0ec2e0764eb8338752b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651822412504,
+        "stop" : 1651822428599,
+        "duration" : 16095
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "cstor_06_add_exam_manage",
+      "uid" : "43a1975a10cadd06",
+      "parentUid" : "ef8c522d4c70c0ec2e0764eb8338752b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651822428615,
+        "stop" : 1651822447448,
+        "duration" : 18833
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "cstor_01_addteacher",
+      "uid" : "5e975a4eb4769489",
+      "parentUid" : "ef8c522d4c70c0ec2e0764eb8338752b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651824379505,
+        "stop" : 1651824380939,
+        "duration" : 1434
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "cstor_07_sessionList",
+      "uid" : "1d939701fb7ae1bf",
+      "parentUid" : "ef8c522d4c70c0ec2e0764eb8338752b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651824380960,
+        "stop" : 1651824385582,
+        "duration" : 4622
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testsuit.cstor_Exam_process"
+  } ]
+}

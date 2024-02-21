@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 06 16:06:19 CST 2022","Fri May 06 16:06:20 CST 2022","1434","testsuit","cstor_Exam_process","Cstor_ExamProcess","","","cstor_01_addteacher",""
+"passed","Fri May 06 15:33:15 CST 2022","Fri May 06 15:33:32 CST 2022","17471","testsuit","cstor_Exam_process","Cstor_ExamProcess","","","cstor_04_add_course",""
+"passed","Fri May 06 16:06:20 CST 2022","Fri May 06 16:06:25 CST 2022","4622","testsuit","cstor_Exam_process","Cstor_ExamProcess","","","cstor_07_sessionList",""
+"passed","Fri May 06 15:33:12 CST 2022","Fri May 06 15:33:15 CST 2022","2569","testsuit","cstor_Exam_process","Cstor_ExamProcess","","","cstor_03_add_student",""
+"passed","Fri May 06 15:33:06 CST 2022","Fri May 06 15:33:12 CST 2022","6003","testsuit","cstor_Exam_process","Cstor_ExamProcess","","","cstor_02_addclass",""
+"passed","Fri May 06 15:33:32 CST 2022","Fri May 06 15:33:48 CST 2022","16095","testsuit","cstor_Exam_process","Cstor_ExamProcess","","","cstor_05_add_exam",""
+"passed","Fri May 06 15:33:48 CST 2022","Fri May 06 15:34:07 CST 2022","18833","testsuit","cstor_Exam_process","Cstor_ExamProcess","","","cstor_06_add_exam_manage",""
